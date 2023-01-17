@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "gatsby develop",
+    "restart": "gatsby clean && gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^1.5.6",
+    "dotenv": "^16.0.3",
+    "gatsby": "^5.4.2",
+    "gatsby-plugin-image": "^3.4.0",
+    "gatsby-source-contentful": "^8.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
